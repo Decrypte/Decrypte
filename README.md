@@ -1,6 +1,6 @@
 # Hi there, I'm Decrypte! 👋
 
-Welcome to my GitHub profile! I'm passionate about [mention your areas of interest, e.g., "coding, AI, data analysis"] and love contributing to exciting projects. 🚀
+Welcome to my GitHub profile! 🚀
 
 ---
 
