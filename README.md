@@ -49,8 +49,3 @@ Welcome to my GitHub profile! 🚀
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=flat)](https://twitter.com/YourProfile)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat)](mailto:your.email@example.com)
 
----
-
-## 💡 Fun Fact
-
-[Write a fun fact about yourself or something unique about your work!]
