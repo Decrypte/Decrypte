@@ -1,20 +1,23 @@
-# Hi there, I'm Decrypte! 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! 🚀
 
 ---
 
-## 🔥 GitHub Stats
+
+## 🔥 Recent GitHub Stats
 
 ![Decrypte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decrypte&show_icons=true&theme=radical)
 
 ---
 
-## 🚀 Streak Stats
+
+## 🚀 Some of my Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Decrypte&theme=radical)](https://git.io/streak-stats)
 
 ---
+
 
 ## 📊 Top Languages
 
@@ -22,17 +25,20 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
+
 ## 🌐 3D Contribution Graph
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
+
 ## 📈 Activity Graph
 
 [![Decrypte's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Decrypte&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
 
 ## 🛠️ Skills & Tools
 
@@ -43,9 +49,10 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
+
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/YourProfile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=flat)](https://twitter.com/YourProfile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/tsnandy/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=flat)](https://twitter.com/d_crypted)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white&style=flat)](mailto:tirt.nan@gmail.com)
 
